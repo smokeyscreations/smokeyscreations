@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smokeyscreations
 - 👀 I’m interested in making random stuff i'm interested in
 - 🌱 I’m currently learning Unity Game Development, ASP.NET, Swift Mobile Development, Java, some other stuff I forgor
-- 💞️ I’m looking to collaborate on modding games, creating third party applications for games, etc.
+- 💞️ I’m looking to collaborate on creating web apps, mobile apps, modding games, third party softwares for games, APIs, etc.
 - 📫 How to reach me: theavengeancereloaded@gmail.com
 
 <!---
